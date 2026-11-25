@@ -1,4 +1,4 @@
-# Email Searcher v0.0.1
+# Email Searcher v0.0.2
 
 **Author:** AntiCrypto
 
